@@ -1,7 +1,5 @@
 # Meta Marketing Performance & Campaign Optimization 📊
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" width="120">
-
 ---
 
 ## 📌 Project Overview
