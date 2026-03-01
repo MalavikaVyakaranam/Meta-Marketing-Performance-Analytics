@@ -79,10 +79,11 @@ The dashboard enables dynamic exploration of key marketing metrics to understand
 ---
 
 ## 📂 Files in This Repository
-- `Meta Marketing Performance& Campaign Optimization.pbit` – Power BI report file  
-- `Meta Marketing Performance& Campaign Optimization.pdf` – Exported dashboard for quick review  
-- `Page1_Facebook.png` – Facebook platform dashboard view  
-- `Page2_Instagram.png` – Instagram platform dashboard view  
+- [Power BI Report (.pbix)](Meta Marketing Performance& Campaign Optimization.pbit) – Power BI report file  
+- [Dashboard PDF](Meta%20Marketing%20Performance&%20Campaign%20Optimization.pdf) – Exported dashboard for quick review  
+- [Facebook Dashboard Screenshot](page1_facebook.png) – Facebook platform dashboard view  
+- [Instagram Dashboard Screenshot](page2_instagram.png) – Instagram platform dashboard view  
+
 
 ---
 
